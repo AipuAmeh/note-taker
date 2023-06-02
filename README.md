@@ -3,9 +3,12 @@
 
 In this week's challenge, we used Express.js to add functionality to a note taking application. We practiced retrieving and manipulating data from a JSON file, creating routes to different html pages, data persistence and modularization. 
 
+
 ## Installation
 
 To install this project, you need Express, Fs, and Generate-Unique-ID.
+
+<img width="1440" alt="Screenshot 2023-06-02 at 6 17 05 PM" src="https://github.com/AipuAmeh/note-taker/assets/110988589/44637edb-9133-44c4-8f65-2617738aba99">
 
 ## Usage
 
